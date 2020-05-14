@@ -1,0 +1,30 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.navbar{
+    background-color: #5D6D7E;
+}
+
+.colornew{
+    color: white;
+}
+
+.quem-somos{
+    background-color: #D6EAF8 ;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #B6FCFB;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
